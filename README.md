@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=00C853\&center=true\&vCenter=true\&width=435\&lines=Desarrollador+en+proceso;Amante+de+la+tecnolog%C3%ADa;Aprendiendo+algo+nuevo+cada+d%C3%ADa)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&pause=1000\&color=000000\&center=true\&vCenter=true\&width=440\&lines=Frontend+Developer;Minimalismo+en+c%C3%B3digo;Blanco+%26+Negro+%E2%9A%AA%E2%9A%AB)
 
 </div>
 
@@ -10,40 +10,38 @@
 
 ## 🧠 Sobre mí
 
-* 💻 Interesado en el **desarrollo de software**
-* 🚀 Me gusta crear proyectos prácticos y funcionales
-* 📚 Aprendiendo constantemente nuevas tecnologías
-* 🛠️ Fan de construir cosas desde cero
+* 💻 **Frontend Developer** enfocado en interfaces limpias
+* ⚪⚫ Me gusta el **diseño minimalista** (blanco y negro)
+* 🚀 Construyo proyectos prácticos y bien estructurados
+* 📚 Aprendiendo continuamente nuevas tecnologías
 * 🤝 Abierto a colaborar y recibir feedback
 
 ---
 
-## 🛠️ Tecnologías & Herramientas
-
-> Tecnologías que uso y estudio actualmente 👇
+## 🛠️ Tecnologías
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-6E2CF3?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-6E2CF3?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6E2CF3?style=for-the-badge\&logo=javascript\&logoColor=white)
-![React](https://img.shields.io/badge/React-6E2CF3?style=for-the-badge\&logo=react\&logoColor=white)
-![Svelte](https://img.shields.io/badge/Svelte-6E2CF3?style=for-the-badge\&logo=svelte\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript\&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react\&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-black?style=for-the-badge\&logo=svelte\&logoColor=white)
 
 ### Estilos
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-6E2CF3?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-6E2CF3?style=for-the-badge\&logo=sass\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-black?style=for-the-badge\&logo=sass\&logoColor=white)
 
-### Datos & Otros
+### Datos
 
-![JSON](https://img.shields.io/badge/JSON-6E2CF3?style=for-the-badge\&logo=json\&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge\&logo=json\&logoColor=white)
 
 ### Herramientas
 
-![Git](https://img.shields.io/badge/Git-6E2CF3?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-6E2CF3?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-6E2CF3?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-black?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 ---
 
@@ -51,44 +49,33 @@
 
 <div align="center">
 
-![Armive GitHub Stats](https://github-readme-stats.vercel.app/api?username=armive\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=armive\&show_icons=true\&theme=graywhite\&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armive\&layout=compact\&theme=tokyonight)
-
-</div>
-
----
-
-## 🔥 Racha de contribuciones
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=armive\&theme=tokyonight\&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armive\&layout=compact\&theme=graywhite\&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Proyectos
+## 🔥 Racha
 
-* 🔹 **Proyecto 1:** Descripción corta del proyecto
-* 🔹 **Proyecto 2:** Tecnologías usadas y aprendizaje
-* 🔹 **Proyecto 3:** Idea principal o funcionalidad clave
+<div align="center">
 
-*(Actualiza esta sección con enlaces reales)*
+![GitHub Streak](https://streak-stats.demolab.com?user=armive\&theme=graywhite\&hide_border=true)
+
+</div>
 
 ---
 
-## 🌐 Conecta conmigo
+## 🌐 Codigo
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-bunycode.vercel.app-6E2CF3?style=for-the-badge)](https://bunycode.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-armive-6E2CF3?style=for-the-badge\&logo=github)](https://github.com/armive)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bunycode.vercel.app-black?style=for-the-badge)](https://bunycode.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-armive-black?style=for-the-badge\&logo=github)](https://github.com/armive)
 
 ---
 
 <div align="center">
 
-✨ *Gracias por visitar mi perfil* ✨
-⭐ *Si te gusta algún proyecto, no olvides dejar tu estrella* ⭐
+⚪⚫ *Minimal code. Clean design.* ⚫⚪
 
 </div>
